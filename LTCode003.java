@@ -1,4 +1,4 @@
-public class LT003 {
+public class LTCode003 {
     
     // The myAtoi function to convert a string to a 32-bit signed integer
     public int myAtoi(String s) {
