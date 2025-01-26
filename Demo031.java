@@ -1,7 +1,5 @@
 import java.util.HashSet;
-
 class HashSetDemo1 {
-
     void HSetMethod() {
 		//We can add any type of element here...
 		HashSet hashSet = new HashSet();
