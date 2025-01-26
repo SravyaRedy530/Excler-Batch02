@@ -1,4 +1,4 @@
-public class LToo1 {
+public class LTCode001 {
     class Solution {
         public boolean isPalindrome(int x) {
            
