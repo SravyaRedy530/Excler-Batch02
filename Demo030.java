@@ -1,4 +1,3 @@
-
 import java.util.*;
 class ArrayListCode{
 	void arrayListMethod(){
@@ -11,12 +10,10 @@ class ArrayListCode{
 	      araylist1.add(600);
 System.out.println("Elements of the list: ");
 	      
-	      Iterator<Integer> iterate = araylist1.iterator();
-	    
+	 Iterator<Integer> iterate = araylist1.iterator();
 	      while (iterate.hasNext()) { 
 	         System.out.println(iterate.next()); 
-	}
-	    
+	}    
 }
 public class Demo030 {
 
@@ -25,5 +22,4 @@ public class Demo030 {
 		obj.arrayListMethod();
     }
 }
-
 }
